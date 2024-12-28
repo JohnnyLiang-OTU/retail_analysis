@@ -23,7 +23,15 @@ The columns include: age, gender, income, customer segment, totla purchases, amo
 - Which country consumed the most. ✅
 - Greatest country consumer  in 2023 by month. ✅
 
-3. Prediction and Inferences
+3. Product Related
+- ProductCategory purchase distribution (How much times product category was bought) ✅
+- ProductCategory purchases by Gender ✅
+- ProductCategory gross sales (How much money worth by product category) ✅
+- Brand gross sales ✅
+- Brands purchases by Gender ✅
+- 
+
+4. Prediction and Inferences
 - Does Income relates to total amount?
 - Predict Total Amount based on Income, Age, Customer Segment and Total Purchases.
 
