@@ -6,7 +6,7 @@ The columns include: age, gender, income, customer segment, totla purchases, amo
 
 ## Objectives to Explore:
 
-1. Customer Related
+1. Customer Level
 - Of the customers, which gender dominates the different income categories. ✅
 - Age Distribution. ✅
 - Age Average. ✅
@@ -18,12 +18,12 @@ The columns include: age, gender, income, customer segment, totla purchases, amo
 - Consumption per income category and gender average. ✅
 
 
-2. Country Related
+2. Country Level
 - Which country consumes the most on average. ✅
 - Which country consumed the most. ✅
 - Greatest country consumer  in 2023 by month. ✅
 
-3. Product Related
+3. Product Level
 - ProductCategory purchase distribution (How much times product category was bought) ✅
 - ProductCategory purchases by Gender ✅
 - ProductCategory gross sales (How much money worth by product category) ✅
@@ -57,7 +57,14 @@ On average, women and men purchased an average 1368.34 and 1367.29, respectively
 ![image](images/1f_consumption_by_income_cat.png)
 #### - Consumption per income category average. 
 ![image](images/1g_consumption_per_income_category_avg.png)
-#### - Consumption per income category and gender (AKA. Which Gender consumes the most within their Income Category. It answers wheter rich women / men spend most). 
-- Consumption per income category and gender average. 
+#### - Consumption per income category and gender (Which category consumed most)
+![image](images/1h_total_consumption_gender_incomecategory.png)
+#### - Consumption per income category and gender average. 
+![image](images/1i_avg_consumption_gender_incomecategory.png)
 
+### 2. Country Level
+#### - Which country consumes the most on average. 
+
+#### - Which country consumed the most. 
+#### - Greatest country consumer  in 2023 by month. 
 # WORK IN PROGRESS! - Dec 29
