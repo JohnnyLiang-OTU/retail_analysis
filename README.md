@@ -22,6 +22,7 @@ The columns include: age, gender, income, customer segment, totla purchases, amo
 - Which country consumes the most on average. ✅
 - Which country consumed the most. ✅
 - Greatest country consumer  in 2023 by month. ✅
+- Why is there such strange results in February regarding monthly consumption?
 
 3. Product Level
 - ProductCategory purchase distribution (How much times product category was bought) ✅
@@ -64,7 +65,24 @@ On average, women and men purchased an average 1368.34 and 1367.29, respectively
 
 ### 2. Country Level
 #### - Which country consumes the most on average. 
-
+![image](images/2a_country_average_consumption.png)
+On average, a customer from the UK will consume the most.
 #### - Which country consumed the most. 
+![image](images/2b_country_total_consumption.png)
+In total, the country that spends the most is the USA.
 #### - Greatest country consumer  in 2023 by month. 
+![image](images/2c_max_monthly_spending.png)
+Usually, the USA spends the most each month, but surprisingly, on February there was a huge dip and Australia leaded consumption despite the low value it displays.
+#### - Why is there such strange results in February regarding monthly consumption?
+![image](images/2d_why_of_the_february_dip.png)
+The reason why there is such a dip in February regarding monthly consumptions is because in the dataset, in February 2023, there is few transactions. <br>
+The number of transactions was low for every country and Australia happened to have more than any other country, hence why such low consumption and Australia being the greatest consumer in that month and year.
+
+### 3. Product Level
+#### - ProductCategory purchase distribution (How much times product category was bought) 
+#### - ProductCategory purchases by Gender 
+#### - ProductCategory gross sales (How much money worth by product category) 
+#### - Brand gross sales 
+#### - Brands purchases by Gender 
+
 # WORK IN PROGRESS! - Dec 29
