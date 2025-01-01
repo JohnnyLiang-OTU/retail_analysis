@@ -34,8 +34,7 @@ The columns include: age, gender, income, customer segment, totla purchases, amo
 - Gender Ratio per Brand ✅
 
 4. Prediction and Inferences
-- Does Income relates to total amount?
-- Predict Total Amount based on Income, Age, Customer Segment and Total Purchases.
+- Machine Learning Model
 
 ## Results
 ### 1. Customer Related
@@ -97,4 +96,6 @@ Percentage of men and women that purchase for that specific brand.
 #### - Gender Ratio per Brand
 ![image](images/3g_gender_ratio_brand.png)
 How many transactions come from men and how many come from women per brand.
+
+### 4. Predictions and Inferences
 # WORK IN PROGRESS! - Dec 29
