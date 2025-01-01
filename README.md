@@ -29,8 +29,9 @@ The columns include: age, gender, income, customer segment, totla purchases, amo
 - ProductCategory purchases by Gender ✅
 - ProductCategory gross sales (How much money worth by product category) ✅
 - Brand gross sales ✅
-- Brands purchases by Gender ✅
-- 
+- Brands sales count by Gender ✅
+- Clientele Distribution among Companies by Gender ✅
+- Gender Ratio per Brand ✅
 
 4. Prediction and Inferences
 - Does Income relates to total amount?
@@ -80,9 +81,20 @@ The number of transactions was low for every country and Australia happened to h
 
 ### 3. Product Level
 #### - ProductCategory purchase distribution (How much times product category was bought) 
-#### - ProductCategory purchases by Gender 
+![image](images/3a_purchase_category.png)
+Electronics and Groceries were the most bought categories.
 #### - ProductCategory gross sales (How much money worth by product category) 
+![image](images/3b_sales_category.png)
+#### - ProductCategory purchases by Gender 
+![image](images/3c_category_gender_distribution_purchases.png)
 #### - Brand gross sales 
-#### - Brands purchases by Gender 
-
+![image](images/3d_sales_per_brand.png)
+#### - Brand sales count by Gender
+![image](images/3e_purchase_count_distribution_by_gender.png)
+#### - Cliente Distribution among Companies by Gender
+Percentage of men and women that purchase for that specific brand.
+![image](images/3f_clientele_distribution_companies_gender.png)<br>
+#### - Gender Ratio per Brand
+![image](images/3g_gender_ratio_brand.png)
+How many transactions come from men and how many come from women per brand.
 # WORK IN PROGRESS! - Dec 29
