@@ -33,8 +33,6 @@ The columns include: age, gender, income, customer segment, totla purchases, amo
 - Clientele Distribution among Companies by Gender ✅
 - Gender Ratio per Brand ✅
 
-4. Prediction and Inferences
-- Machine Learning Model
 
 ## Results
 ### 1. Customer Related
@@ -50,7 +48,7 @@ The average age of the customers in the retail dataset is 35.
 #### - Consumption per gender. 
 ![image](images/1d_consumption_per_gender.png)<br>
 Men clients purchased a total of $249,891,824.48. <br>
-Women clients purchased a total of 152,086,424.42
+Women clients purchased a total of $152,086,424.42
 #### - Consumption per gender average. 
 ![image](images/1e_average_consumption_per_gender.png)<br>
 On average, women and men purchased an average 1368.34 and 1367.29, respectively. This are very similar values, meaning, men and women have similar both contribute equally economically in a retail context.
@@ -97,5 +95,14 @@ Percentage of men and women that purchase for that specific brand.
 ![image](images/3g_gender_ratio_brand.png)
 How many transactions come from men and how many come from women per brand.
 
-### 4. Predictions and Inferences
-# WORK IN PROGRESS! - Dec 29
+## Conclusions
+- A lot of young (18 - 26) customers in the retail sector.
+- Men purchased $100M more than Women according to the dataset but on average, Women spend more.
+- The Medium income class is the highest consumer group in the retail sector, followed by the Low income, and in last position the High income class. But on average, a Low income customer spends more than the Medium income customer. 
+- Low and Medium income female customers spend more than their Male counterpart within their same income category. But, in High income groups, the Male spends more than the Female counterpart.
+- The USA consumed the most in retail, followed by UK, Germany, Australia, and lastly Canada.
+- Groceries and Electronics are the most sought products.
+- The brand / company with most sales is Pepsi.
+- For each brand / company, on average, there's slightly more Women clientele than Men clientele. The only exception is Whirepool, where every client was Male.
+- For each brand / company, totally, there's a higher ratio of Male (dataset has more Male entries) than Female.
+
