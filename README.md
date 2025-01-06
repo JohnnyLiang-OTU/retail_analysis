@@ -1,10 +1,17 @@
 # Retail Data Analysis
-Dataset source: https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset?resource=download
+The purpose of this project is to achieve a deeper insight in the retail sector and unlock hidden information that may be useful.<br>
+As a side, learning and review are important motivators for this project as there's no better way of learning X action, than by performing X action.
 
-Dataset that contains transactions. <br>
+The dataset is from: https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset<br>
+It is a dataset that contails retail transactions.<br>
 The columns include: age, gender, income, customer segment, totla purchases, amount spent, product category, product brand, product type, shipping method, payment method, and others.
 
+
 ## Objectives to Explore:
+We want to capture:
+- Who is our customer?
+- Interesting behaviour that our customer may display.
+
 
 1. Customer Level
 - Of the customers, which gender dominates the different income categories. ✅
