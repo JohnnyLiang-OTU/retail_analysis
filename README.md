@@ -70,7 +70,7 @@ On average, women and men purchased an average 1368.34 and 1367.29, respectively
 
 ### 2. Country Level
 #### - Which country consumes the most on average. 
-![image](images/2a_country_average_consumption.png)
+![image](images/2a_country_average_consumption.png)<br>
 On average, a customer from the UK will consume the most.
 #### - Which country consumed the most. 
 ![image](images/2b_country_total_consumption.png)<br>
@@ -85,7 +85,7 @@ The number of transactions was low for every country and Australia happened to h
 
 ### 3. Product Level
 #### - ProductCategory purchase distribution (How much times product category was bought) 
-![image](images/3a_purchase_category.png)
+![image](images/3a_purchase_category.png)<br>
 Electronics and Groceries were the most bought categories.
 #### - ProductCategory gross sales (How much money worth by product category) 
 ![image](images/3b_sales_category.png)
@@ -95,12 +95,12 @@ Electronics and Groceries were the most bought categories.
 ![image](images/3d_sales_per_brand.png)
 #### - Brand sales count by Gender
 ![image](images/3e_purchase_count_distribution_by_gender.png)
-#### - Cliente Distribution among Companies by Gender
+#### - Cliente Distribution among Companies by Gender<br>
 Percentage of men and women that purchase for that specific brand.
 ![image](images/3f_clientele_distribution_companies_gender.png)<br>
 #### - Gender Ratio per Brand
-![image](images/3g_gender_ratio_brand.png)
-How many transactions come from men and how many come from women per brand.
+![image](images/3g_gender_ratio_brand.png)<br>
+Answers how many transactions come from men and how many come from women per brand.
 
 ## Conclusions
 - A lot of young (18 - 26) customers in the retail sector.
